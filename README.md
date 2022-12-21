@@ -1,4 +1,1 @@
-# hello-world
-
-Have no idea how the works will be solved through...
-But I keep on goin
+# Hi all! I am a BECON graduate with MBA (Concentration: Statistics). Have over 9+ years of experience in hardware industry via various departments including sales, marketing, product and project. Many of the devices I`ve seen, had softwares in them. Thus, in the meanwhile, I have tried my best to improve my coding skills that I am knowledgable of HTML5, CSS, JavaScript, and Python. Here to improve and share my skills as much as I can. Cheers!
